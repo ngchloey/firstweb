@@ -3,7 +3,6 @@
 }
 
 body{
-  background:#EE02A6;
 }
 #mydad{
   color:#46D635;
@@ -11,12 +10,27 @@ body{
   font-weight: bold;
 }
 #mymom{
-color:#B735D6;
+color:#8E269E;
 font-size: 24pt;
 font-weight: bold;
 }
 #me{
   color:#F7A9DF;
   font-size:24pt;
-  font-weight: 900;
+  font-weight: bold;
+}
+#mysister{
+color:purple;
+font-size: 24pt;
+font-weight:bold;
+}
+#secondsis{
+  color:blue;
+  font-size: 24pt;
+  font-weight:bold;
+}
+#mybrother{
+color:red;
+font-size: 24pt;
+font-weight:bold;
 }
