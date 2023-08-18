@@ -13,4 +13,10 @@ body{
 #mymom{
 color:#B735D6;
 font-size: 24pt;
+font-weight: bold;
+}
+#me{
+  color:#F7A9DF;
+  font-size:24pt;
+  font-weight: 900;
 }
