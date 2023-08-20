@@ -2,7 +2,8 @@
   box-sizing: border-box;
 }
 
-body{backgrou
+body{
+  background: #bfe9ec;
 }
 #mydad{
   color:#46D635;
@@ -15,12 +16,12 @@ font-size: 24pt;
 font-weight: bold;
 }
 #me{
-  color:#fc29bd;
+  color:rgb(218, 29, 155);
   font-size:24pt;
   font-weight: bold;
 }
 #mysister{
-color:purple;
+color:#9C0CDA;
 font-size: 24pt;
 font-weight:bold;
 }
@@ -30,7 +31,7 @@ font-weight:bold;
   font-weight:bold;
 }
 #mybrother{
-color:blue;
+color:#2e87fb;
 font-size: 24pt;
 font-weight:bold;
 }
